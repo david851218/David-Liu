@@ -1,2 +1,2 @@
-# David-Liu
-My personal repository
+# About me
+- Graduate student in the Siepmann Group at the University of Minnesota - Twin Cities
